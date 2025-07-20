@@ -31,7 +31,7 @@
 
 ## Resources
 
-This repository contains different technical writing resources that has been gathered from all around the internet
+This repository contains different technical writing resources that has been gathered from all around the internet.
 
 ## What is Technical Writing?
 Technical writing is a form of communication that helps users solve problems with technology. It is the process of creating clear, concise, and informative content designed to convey complex information in a way that is easily understood by the intended audience. 
